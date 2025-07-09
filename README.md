@@ -6,7 +6,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/adityarajpandey067/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" alt="LinkedIn">
   </a>
