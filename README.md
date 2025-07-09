@@ -77,11 +77,3 @@
 </p>
 
 ---
-
-## 😂 Random Meme
-
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400px"/>
-</p>
-
----
